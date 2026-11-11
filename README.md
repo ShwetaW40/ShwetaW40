@@ -1,10 +1,8 @@
 # About\_Me
 
-All about me
+### Hi, This is Shweta Walishettar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Hi there, I'm Shweta Walishettar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-[!\[Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/shweta-walishetter/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shweta-walishetter/)
 
 ### Welcome to My Data Analytics Journey!
 
@@ -18,7 +16,7 @@ A passionate, data-driven professional with **14+ years of experience** across S
 - Experienced in training operations, employee induction, MIS reporting, dashboards, and KPI tracking.
 
 ### Technical Skills
-- **Microsoft Excel:** Advanced Excel, Pivot Tables, VLOOKUP, XLOOKUP.
+- **Microsoft Excel:** Advanced Excel, Pivot Tables, VLOOKUP, Powe Pivot, XLOOKUP.
 - **Power Query:** Data Cleaning and Transformation.
 - **Power BI:** Interactive Dashboards and Data Visualization.
 - **SQL:** Data Extraction, Joins, and Data Analysis.
@@ -30,10 +28,11 @@ A passionate, data-driven professional with **14+ years of experience** across S
 - Passionate about data-driven decision-making, business insights, and problem-solving.
 - Aspiring to build a successful career as a **Data Analyst**.
 
+<img align="center" alt="GIF" src="https://github.com/ShwetaW40/About_me/blob/main/me.webp" width="400" height="225" />
+
 **My Philosophy:**
 
-"Change is the Law of the World." – Lord Shri Krishna
+**"Change is the Law of the World." – Lord Shri Krishna**
 
-Always learning, continuously improving, and transforming data into meaningful insights!
+**Always learning, continuously improving, and transforming data into meaningful insights!**
 
-<img align="right" alt="GIF" src="[https://github.com/SatishDhawale/SatishDhawale/blob/1ca00b90990f3b0d667c34332da2d660d636d4fa/Satish%20Dhawale.jpg](https://github.com/ShwetaW40/About_me/blob/ddb734f89724bfae1fcf305784b1020ee481cdcd/me.webp)" width="400" height="225" />
