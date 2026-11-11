@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shweta-walishetter/)
 
-### Welcome to My Data Analytics Journey!
+### Welcome to My Professional Journey!
 
 A passionate, data-driven professional with **14+ years of experience** across Special Education and Corporate Learning & Development, now transitioning into the exciting field of **Data Analytics**.
 
