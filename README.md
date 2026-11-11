@@ -36,4 +36,4 @@ A passionate, data-driven professional with **14+ years of experience** across S
 
 Always learning, continuously improving, and transforming data into meaningful insights!
 
-<img align="right" alt="GIF" src="https://github.com/SatishDhawale/SatishDhawale/blob/1ca00b90990f3b0d667c34332da2d660d636d4fa/Satish%20Dhawale.jpg" width="400" height="225" />
+<img align="right" alt="GIF" src="[https://github.com/SatishDhawale/SatishDhawale/blob/1ca00b90990f3b0d667c34332da2d660d636d4fa/Satish%20Dhawale.jpg](https://github.com/ShwetaW40/About_me/blob/ddb734f89724bfae1fcf305784b1020ee481cdcd/me.webp)" width="400" height="225" />
